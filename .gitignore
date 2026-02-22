@@ -1,0 +1,5 @@
+/videos/
+.venv
+db.sqlite3
+uv.lock
+.python-version
